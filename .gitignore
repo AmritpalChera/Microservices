@@ -1,0 +1,42 @@
+
+/posts/node_modules
+
+/posts/.DS_Store
+/posts/.env
+/posts/.env.local
+/posts/.env.development.local
+/posts/.env.test.local
+/posts/.env.production.local
+
+/comments/node_modules
+
+/comments/.DS_Store
+/comments/.env
+/comments/.env.local
+/comments/.env.development.local
+/comments/.env.test.local
+/comments/.env.production.local
+
+
+# dependencies
+/client/node_modules
+/client/.pnp
+/client.pnp.js
+
+/client# testing
+/client/coverage
+
+# production
+/client/build
+
+# misc
+/client/.DS_Store
+/client/.env
+/client/.env.local
+/client/.env.development.local
+/client/.env.test.local
+/client/.env.production.local
+
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
